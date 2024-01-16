@@ -432,7 +432,7 @@ letter-spacing: 0.1px;
 }
 /* ===============PRACTICE====================== */
 .practice {
-	padding: 80px 0;
+	padding: 10px 0 80px;
 }
 @media (max-width: 1030px){
 	.practice {
@@ -440,7 +440,7 @@ letter-spacing: 0.1px;
 	}
 }
 .practice__header {
-	margin: 45px 0;
+	margin: 50px 0;
 }
 @media (max-width: 767px){
 	.practice__header {
