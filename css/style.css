@@ -368,7 +368,7 @@ letter-spacing: 0.2px;
 .advantages {
 	padding: 80px 0;
 }
-@media (max-width: 992px){
+@media (max-width: 1030px){
 	.advantages {
 		padding: 50px 0 0;
 	}
@@ -433,6 +433,11 @@ letter-spacing: 0.1px;
 /* ===============PRACTICE====================== */
 .practice {
 	padding: 80px 0;
+}
+@media (max-width: 1030px){
+	.practice {
+		padding: 0px 0 50px 0;
+	}
 }
 @media (max-width: 992px){
 	.practice {
