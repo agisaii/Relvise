@@ -378,7 +378,7 @@ letter-spacing: 0.2px;
 }
 @media (max-width: 767px){
 	.advantages__header {
-		margin: 0px 0px 30px 0px;
+		margin: 0px 0px 50px 0px;
 	}
 }
 .advantages__body {
@@ -436,11 +436,6 @@ letter-spacing: 0.1px;
 }
 @media (max-width: 1030px){
 	.practice {
-		padding: 0px 0 50px 0;
-	}
-}
-@media (max-width: 992px){
-	.practice {
 		padding: 10px 0 50px 0;
 	}
 }
@@ -449,7 +444,7 @@ letter-spacing: 0.1px;
 }
 @media (max-width: 767px){
 	.practice__header {
-		margin: 0 0 35px 0;
+		margin: 50px 0;
 	}
 }
 .practice__body {
@@ -627,10 +622,10 @@ letter-spacing: 0.1px;
 }
 @media (max-width: 767px){
 	.whoweare {
-		padding: 30px 0px 50px 0px;
+		padding: 50px 0px;
 	}
 	.whoweare__header {
-		margin: 0px 0px 30px 0px;
+		margin: 0px 0px 50px 0px;
 	}
 	.whoweare__top:not(:last-child) {
 		margin: 0px 0px 50px 0px;
